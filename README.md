@@ -1,7 +1,3 @@
----
-title: ubuntu-bits
----
-
 This is a personal repo to hold various scripts and other tidbits for my Ubuntu setups.
 
 - [dell-xps-l502x-pp.md](http://dell-xps-l502x-pp.md) contains notes and commands for a Ubuntu Precise Pangolin (12.04.3) setup on my Dell XPS L502X
